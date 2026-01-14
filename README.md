@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @dongsheng123132
-- 👀 I’m interested in ...run and MOVIE,PC AND ETH
-- 🌱 I’m currently learning ...ETH
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@dosunny at telegram
+# 👋 Hi, I'm Dosen(@dongsheng123132)
 
-<!---
-dongsheng123132/dongsheng123132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠 Web3 Builder & P2P Enthusiast
+"Connecting the unconnected, decentralizing the future."
+
+---
+
+- 🚀 **Focusing on:** Decentralized Infrastructure (DePIN), P2P Communication Protocols, and Ethereum Ecosystem.
+- 🔭 **Current Goal:** Developing high-availability Web3 solutions for extreme network environments (Offline/Off-grid scenarios).
+- 🌱 **Tech Stack:** - **Languages:** Solidity, Go, JavaScript/TypeScript.
+  - **Interests:** Ethereum L2s, Mesh Networking, ZK-Proof applications.
+- 🎮 **Beyond Coding:** Runner 🏃‍♂️ | Movie Buff 🎬 | PC Gaming 💻
+- 📫 **Reach me:** - Telegram: [@dsds8848]
+  - GitHub: dongsheng123132
+
+---
+
+### 📊 Tech Snapshot
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dongsheng123132&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongsheng123132&layout=compact&theme=radical&hide_border=true)
+
+---
+
+> "For Builders, By Builders — Let's build something that matters." 🛠️⚡
