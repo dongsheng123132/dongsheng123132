@@ -25,7 +25,7 @@
 - 🚀 **在做**：AI 工具链 · AI 时代的软件架构（一个动作只实现一次，人能点、AI 也能调）
 - 🧭 **在想**：AI 的输出天生不确定，所以交付物必须可校验 —— 每个结论都得回答得出「凭什么」
 - 🛠 **常用**：Node / TypeScript · Rust · Go · PowerShell · Shell · Python
-- 💼 **可以找我聊**：企业 AI 落地、内部 AI 工具定制、开源项目合作
+- 💼 **接活**：企业 AI 落地 —— 免费诊断起步，报价见下方 [找我做事](#-找我做事)
 - 📫 **联系**：[hefangsheng@gmail.com](mailto:hefangsheng@gmail.com) · [hequbing.com](https://hequbing.com) · Telegram [@dsds8848](https://t.me/dsds8848)
 
 > **EN** — Independent AI product builder & enterprise AI consultant. I ship AI tooling that works out of
@@ -57,15 +57,23 @@
 
 ---
 
-## 📫 找我
+## 💼 找我做事
+
+我接**企业 AI 落地**：把 AI 接进客服、文档、质检、报价、内部知识库这些真实业务环节。
+上面那些东西是我自己做的，不是外包出去的——所以方案到上线我一个人能兜住。
+
+**免费 30 分钟诊断** → 方案 ¥3,000 起 → POC ¥8,000 起 → 落地陪跑 ¥20,000 起
+（完整报价与服务边界见 [hequbing.com/services](https://hequbing.com/services)）
+
+> 先从免费那 30 分钟开始。不合适我会直接说不合适，不卖你不需要的东西。
 
 | 渠道 | 地址 |
 | :-- | :-- |
-| 🌐 **个人网站** | [hequbing.com](https://hequbing.com) —— AI 落地案例与咨询 |
+| 🌐 **官网 / 预约** | [hequbing.com](https://hequbing.com) |
 | ✉️ **邮箱** | [hefangsheng@gmail.com](mailto:hefangsheng@gmail.com) |
 | 💬 **Telegram** | [@dsds8848](https://t.me/dsds8848) |
-| 💚 **微信** | 官网右下角浮窗扫码 |
+| 💚 **微信** | 官网右下角浮窗取微信号 |
 
-企业 AI 落地、内部 AI 工具定制、开源项目合作 —— 都欢迎来聊。
+开源项目合作、U-Claw 企业定制同样欢迎来聊。
 
 <p align="center"><sub>「把 AI 装进能用的产品里，而不是停在 Demo。」</sub></p>
