@@ -72,7 +72,7 @@
 | 🌐 **官网 / 预约** | [hequbing.com](https://hequbing.com) |
 | ✉️ **邮箱** | [hefangsheng@gmail.com](mailto:hefangsheng@gmail.com) |
 | 💬 **Telegram** | [@dsds8848](https://t.me/dsds8848) |
-| 💚 **微信** | 官网右下角浮窗取微信号 |
+| 💚 **微信** | `hecare888` |
 
 开源项目合作、U-Claw 企业定制同样欢迎来聊。
 
