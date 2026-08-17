@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="He Qubing - AI Product Builder and Enterprise AI Consultant">
+  <title>He Qubing — AI Product Builder · Enterprise AI Consultant</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080D1A"/>
+      <stop offset="42%" stop-color="#122A5E"/>
+      <stop offset="100%" stop-color="#4A1D95"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="55%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.84" cy="0.1" r="0.62">
+      <stop offset="0%" stop-color="#60A5FA" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.06" cy="0.95" r="0.55">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#FFFFFF" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <g>
+    <rect width="1200" height="280" rx="16" fill="url(#bg)"/>
+    <rect width="1200" height="280" rx="16" fill="url(#grid)"/>
+    <rect width="1200" height="280" rx="16" fill="url(#glow)"/>
+    <rect width="1200" height="280" rx="16" fill="url(#glow2)"/>
+  </g>
+
+  <!-- left accent rail -->
+  <rect x="0" y="0" width="5" height="280" rx="2.5" fill="url(#accent)"/>
+
+  <g font-family="Inter, 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+    <!-- prompt -->
+    <text x="64" y="78" font-size="17" font-weight="600" fill="#38BDF8" letter-spacing="1.5">$ whoami</text>
+
+    <!-- name -->
+    <text x="62" y="150" font-size="62" font-weight="800" fill="#FFFFFF" letter-spacing="4">HE QUBING</text>
+
+    <!-- accent underline -->
+    <rect x="66" y="170" width="196" height="4" rx="2" fill="url(#accent)"/>
+
+    <!-- role -->
+    <text x="64" y="211" font-size="21" font-weight="600" fill="#E2E8F5" letter-spacing="2.4">AI PRODUCT BUILDER  ·  ENTERPRISE AI CONSULTANT</text>
+
+    <!-- footer line -->
+    <text x="64" y="243" font-size="16" font-weight="500" fill="#93A4C8" letter-spacing="1.2">hequbing.com  ·  hefangsheng@gmail.com</text>
+  </g>
+
+  <!-- terminal motif, right -->
+  <g transform="translate(838,58)">
+    <rect x="0" y="0" width="300" height="164" rx="11" fill="#060B16" fill-opacity="0.72" stroke="#FFFFFF" stroke-opacity="0.13"/>
+    <rect x="0" y="0" width="300" height="31" rx="11" fill="#FFFFFF" fill-opacity="0.06"/>
+    <rect x="0" y="22" width="300" height="9" fill="#FFFFFF" fill-opacity="0.06"/>
+    <circle cx="21" cy="15.5" r="4.6" fill="#FF6058"/>
+    <circle cx="38" cy="15.5" r="4.6" fill="#FFBD2E"/>
+    <circle cx="55" cy="15.5" r="4.6" fill="#28C840"/>
+    <g font-family="'SF Mono', Menlo, Consolas, 'Courier New', monospace" font-size="13">
+      <text x="19" y="60" fill="#38BDF8">$</text>
+      <text x="35" y="60" fill="#E2E8F5">u-claw start</text>
+
+      <text x="19" y="84" fill="#28C840">✓</text>
+      <text x="36" y="84" fill="#A9B6D0">claude-code</text>
+      <text x="196" y="84" fill="#6B7A99">ready</text>
+
+      <text x="19" y="106" fill="#28C840">✓</text>
+      <text x="36" y="106" fill="#A9B6D0">codex</text>
+      <text x="196" y="106" fill="#6B7A99">ready</text>
+
+      <text x="19" y="128" fill="#28C840">✓</text>
+      <text x="36" y="128" fill="#A9B6D0">openclaw</text>
+      <text x="196" y="128" fill="#6B7A99">ready</text>
+
+      <text x="19" y="150" fill="#38BDF8">$</text>
+      <rect x="35" y="139" width="9" height="14" fill="#C084FC"/>
+    </g>
+  </g>
+</svg>
